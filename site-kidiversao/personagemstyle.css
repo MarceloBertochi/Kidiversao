@@ -2,18 +2,44 @@ body {
     background-color: #3ec0d6;
 }
 
-.container-de-fotos {
-    display: flex;
-    flex-wrap: wrap ;
-   
-    
+.logoindex {
+    height: 40px;
+    width: 800px;
+    margin: 5px 0 0 325px;
+    padding: 5px;
 }
+.whatsapp {
+    height: 25px;
+    width: 25px;   
+    }
+    .facebook {
+        height: 25px;
+        width: 25px;
+    }
+    .instagram{
+        height: 25px;
+        width: 25px;
+    }
+
+nav {
+margin: 0 0 0 950px ;
+}
+
+.container {
+    border: 2px solid green;
+    display: flex;   
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+   }
 
 .fotos {
-   border: 3px solid #457081;
-   margin: 20px;   
-}
+   border: 2px solid #457081;
+   margin: 10px;   
+   }
 
 img{
-    width: 200px;
+  width: 200px;
 }
+
