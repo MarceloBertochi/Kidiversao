@@ -1,0 +1,19 @@
+body {
+    background-color: #3ec0d6;
+}
+
+.container-de-fotos {
+    display: flex;
+    flex-wrap: wrap ;
+   
+    
+}
+
+.fotos {
+   border: 3px solid #457081;
+   margin: 20px;   
+}
+
+img{
+    width: 200px;
+}
