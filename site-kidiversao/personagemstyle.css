@@ -28,18 +28,23 @@ margin: 0 0 0 950px ;
 .container {
     border: 2px solid green;
     display: flex;   
-    flex-direction: row;
-    justify-content: space-between;
-    
-    
+    height: 900px;
+    flex-wrap: wrap-reverse;
+    justify-content: space-around;
+
    }
 
 .fotos {
-   border: 2px solid #457081;
+   
    margin: 10px;   
    }
 
 img{
   width: 200px;
+  height: 300px;
+}
+
+p {
+    text-align: center;
 }
 
