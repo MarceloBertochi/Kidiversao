@@ -1,34 +1,45 @@
 body {
     background-color: #3ec0d6;
-    margin: 0;
+    margin: 10px 0 0 0;
     padding: 0;
     height: 100vh;
     width: 100vw;
-    
-       }
-     
+
+}
+
 .logoindex {
-    height: 40px;
-    width: 800px;
-    margin: 5px 0 0 325px;
+    margin: 5px 0 0 318px;
     padding: 5px;
 }
+
+.redes {
+    margin: 0 0 0 300px;
+}
+
+.imagemindex {
+    width: 300px;
+    height: 20px;
+}
+.tituloredes {
+    font-size: 20px;
+}
+
 .whatsapp {
     height: 25px;
-    width: 25px;   
-    }
-    .facebook {
-        height: 25px;
-        width: 25px;
-    }
-    .instagram{
-        height: 25px;
-        width: 25px;
-    }
-
-nav {
-margin: 0 0 0 950px ;
+    width: 25px;
 }
+
+.facebook {
+    height: 25px;
+    width: 25px;
+}
+
+.instagram {
+    height: 25px;
+    width: 25px;
+}
+
+
 
 .galeria {
     margin: 5px 0 0 230px;
